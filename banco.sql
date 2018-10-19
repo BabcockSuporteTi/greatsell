@@ -345,8 +345,8 @@ CREATE TABLE `usuarios` (
 --
 
 INSERT INTO `usuarios` (`idUsuarios`, `nome`, `rg`, `cpf`, `rua`, `numero`, `bairro`, `cidade`, `estado`, `email`, `senha`, `telefone`, `celular`, `situacao`, `dataCadastro`, `permissoes_id`, `entidade`) VALUES
-(3, 'Gabriel Vieira', '', '045.255.699-64', '', '', '', '', '', 'contato@gsvieira.com.br', '00ceee5b1c012899ffa1231a9566ffe1440c25ee', '(47) 3035-6633', '', 1, '2015-09-29', 1, 1),
-(7, 'Samara Jane Effting', '', '', NULL, NULL, NULL, NULL, NULL, 'samyeffting@gmail.com', '9ef6b825db7459a4e4caa9f87233d723d54f81fc', '(47) 9132-4698', NULL, 1, '2016-06-23', 1, 2);
+(3, 'Gabriel', '', '', '', '', '', '', '', 'contato@gsvieira.com.br', 'd033e22ae348aeb5660fc2140aec35850c4da997', '(47) 3035-6633', '', 1, '2015-09-29', 1, 1),
+(7, 'Samara', '', '', NULL, NULL, NULL, NULL, NULL, 'naoexiste@gsvieira.com.br', 'd033e22ae348aeb5660fc2140aec35850c4da997', '(47) 9132-4698', NULL, 1, '2016-06-23', 1, 2);
 
 -- --------------------------------------------------------
 
